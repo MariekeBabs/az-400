@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("az-400")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+013b22a345a4223bd8d31749f4873a534cac5cc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("az-400")]
 [assembly: System.Reflection.AssemblyTitleAttribute("az-400")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
